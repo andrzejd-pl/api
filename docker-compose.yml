@@ -29,4 +29,4 @@ services:
     - "MYSQL_PASSWORD=secret"
     - "MYSQL_ROOT_PASSWORD=secret"
     ports:
-    - "33061:3306"
+    - 1997:3306
